@@ -6,7 +6,7 @@ This project is created for **learning, practice, and portfolio demonstration**.
 ---
 
 ## 🚀 Live Demo
-https://mukul438.github.io/tic-tac-toe-game/
+ https://mukul438.github.io/tic-tac-toe/
 
 ---
 
